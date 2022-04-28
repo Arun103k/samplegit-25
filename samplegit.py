@@ -6,7 +6,7 @@ print(Dict)
 
 # Creating a Dictionary
 # with Mixed keys
-Dict = {'Name': 'Geeks', 1: [1, 2,]}
+Dict = {'Name': 'Geeks',2: [1, 2,3,4,5]}
 print("\nDictionary with the use of Mixed Keys: ")
 print(Dict)
 
