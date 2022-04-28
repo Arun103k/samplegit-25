@@ -7,6 +7,6 @@ print(Dict)
 # Creating a Dictionary
 # with Mixed keys
 Dict = {'Name': 'Geeks', 1: [1, 2,]}
-print("\nDictionary with the use of Mixed Keys: ")
+print("\nDictionary with use of Mixed Keys: ")
 print(Dict)
 
